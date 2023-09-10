@@ -2,7 +2,7 @@
 ![ThreeJS](https://i.ibb.co/Sm0SgRp/A-new-style3.png)
 
 ## Summary
-Learn how to create a new style to create your website with a new goo style that make your website stand out 
+Learn how to create a new style to create your website with a new good style that make your website stand out 
 
 📐 In this video, you'll discover how to give your website a fresh new style that makes it stand out from the crowd.
 
